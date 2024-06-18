@@ -16,7 +16,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '8. ⁠Diseño de interfaces de usuario adaptables para niños con dificultades de aprendizajes',
+    title: '⁠Diseño de interfaces de usuario adaptables para niños con dificultades de aprendizajes',
     Svg: require('@site/static/img/undraw_responsiveness_re_cuv5.svg').default,
     description: (
       <>
@@ -25,7 +25,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '9. Visualización de Resultados de Imágenes Médicas',
+    title: 'Visualización de Resultados de Imágenes Médicas',
     Svg: require('@site/static/img/undraw_medicine_b-1-ol.svg').default,
     description: (
       <>
