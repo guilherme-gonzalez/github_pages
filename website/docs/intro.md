@@ -3,14 +3,11 @@ sidebar_position: 1
 title: Diseño de interfaces de usuario adaptables para niños con dificultades de aprendizaje
 ---
 
-# Proyecto de desarrollo de aplicaciones web
+# ![img](../static/img/americana_eleve_logo.png)
 <br/>
 
 <br/>
-![img](../static/img/americana_eleve_logo.png)
-
-<br/>
-<h2 style={{textAlign: "center"}}>Diseño de interfaces de usuario adaptables para niños con dificultades de aprendizaje</h2>
+<h1 style={{textAlign: "center"}}>Diseño de interfaces de usuario adaptables para niños con dificultades de aprendizaje</h1>
 <br/>
 <h3 style={{textAlign: "center"}}>Guilherme Gonzalez, Juan da Silva, Nestor Rolon, Carlos Martínez</h3>
 <br/>

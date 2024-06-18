@@ -3,14 +3,11 @@ sidebar_position: 2
 title: Visualización de Resultados de Imágenes Médicas
 ---
 
-# Taller de programación de 5ta. generación
+# ![img](../static/img/americana_eleve_logo.png)
 <br/>
 
 <br/>
-![img](../static/img/americana_eleve_logo.png)
-
-<br/>
-<h2 style={{textAlign: "center"}}>Visualización de Resultados de Imágenes Médicas</h2>
+<h1 style={{textAlign: "center"}}>Visualización de Resultados de Imágenes Médicas</h1>
 <br/>
 <h3 style={{textAlign: "center"}}>Guilherme Gonzalez, Juan da Silva, Nestor Rolon, Carlos Martínez</h3>
 <br/>
@@ -20,7 +17,7 @@ title: Visualización de Resultados de Imágenes Médicas
 
 <p style={{textAlign: "center"}}>Adan Morel</p>
 
-<p style={{textAlign: "center"}}>Junio 27, 2024</p>
+<p style={{textAlign: "center"}}>Junio 25, 2024</p>
 
 ## Introducción
 
