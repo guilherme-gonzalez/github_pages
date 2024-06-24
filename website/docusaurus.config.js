@@ -47,8 +47,6 @@ const config = {
           rehypePlugins: [rehypeKatex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -74,6 +72,12 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Proyectos',
+          },
+          {
+            href: 'https://github.com/guilherme-gonzalez/github_pages',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
         ],
       },
