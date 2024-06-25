@@ -9,7 +9,7 @@ title: Visualización de Resultados de Imágenes Médicas
 <br/>
 <h1 style={{textAlign: "center"}}>Visualización de Resultados de Imágenes Médicas</h1>
 <br/>
-<h3 style={{textAlign: "center"}}>Guilherme Gonzalez, Juan da Silva, Nestor Rolon, Carlos Martínez</h3>
+<h3 style={{textAlign: "center"}}>Guilherme Gonzalez, Juan da Silva, Carlos Martínez</h3>
 <br/>
 <p style={{textAlign: "center"}}>Facultad de Comunicación, Artes y Ciencias de la Tecnología</p>
 
